@@ -1,0 +1,9 @@
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\bin\Debug\41016_Ex9.exe.config
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\bin\Debug\41016_Ex9.exe
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\bin\Debug\41016_Ex9.pdb
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\obj\Debug\41016_Ex9.csprojResolveAssemblyReference.cache
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\obj\Debug\_41016_Ex9.Properties.Resources.resources
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\obj\Debug\41016_Ex9.csproj.GenerateResource.Cache
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\obj\Debug\41016_Ex9.exe
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\obj\Debug\41016_Ex9.pdb
+C:\Users\B1F01\Desktop\41016_Ex9\41016_Ex9\41016_Ex9\obj\Debug\_41016_Ex9.Menu.resources
